@@ -4,7 +4,7 @@
 #include <cstdlib>
 #include <cctype>
 
-#include "regxstring.h"
+#include "../include/regxstring.h"
 
 using namespace std;
 

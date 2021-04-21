@@ -1,0 +1,50 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build info
+/build
+**/build
+**/**/build
+/bin
+/lib
+**/cmake-build-debug
+conanbuildinfo.*
+graph_info.json
+
+# IDE
+.vscode
+.env
+GPATH
+GRTAGS
+GTAGS
+
